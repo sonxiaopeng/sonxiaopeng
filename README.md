@@ -30,13 +30,12 @@
 </div>
 
 
-<!-- 背景图 -->
-<br />
-<br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
-
 <!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
+<p align="center">
+  <h1 height="200px" align="center">
+    🎉 About Me
+  </h1>
+</p>
 <br />
 
 - 🔭 I’m currently working on [同花顺](https://www.10jqk.com.cn/)~
