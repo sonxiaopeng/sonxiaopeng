@@ -28,3 +28,20 @@
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
+
+
+<!-- 背景图 -->
+<br />
+<br />
+<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+
+<!-- 关于我 -->
+<h2 height="200px" align="center">🎉 About Me</h2>
+<br />
+
+- 🔭 I’m currently working on [同花顺](https://www.10jqk.com.cn/)~
+- 🏋 I'm passionate about music ~
+- 👨‍💻 I'm passionate about coding and have been developing my skill ~
+- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4011498067205262)
+- ⛺️ I have a private site: [story](https://new-story.cn), you're welcome to come! ~
+- 📨 My email address is `songxiaopeng2021@163.com` Welcome to contact me 👏🏻 ~
